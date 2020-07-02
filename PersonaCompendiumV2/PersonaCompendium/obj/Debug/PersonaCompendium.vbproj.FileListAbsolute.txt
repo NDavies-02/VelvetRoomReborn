@@ -1,0 +1,59 @@
+C:\Users\cherry\Desktop\Nathan's Quick Access Files\PersonaCompendium\PersonaCompendiumV2\PersonaCompendium\bin\Debug\PersonaCompendium.exe.config
+C:\Users\cherry\Desktop\Nathan's Quick Access Files\PersonaCompendium\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.vbprojResolveAssemblyReference.cache
+C:\Users\cherry\Desktop\Nathan's Quick Access Files\PersonaCompendium\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.About.resources
+C:\Users\cherry\Desktop\Nathan's Quick Access Files\PersonaCompendium\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.BasicFusion.resources
+C:\Users\cherry\Desktop\Nathan's Quick Access Files\PersonaCompendium\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.MainMenu.resources
+C:\Users\cherry\Desktop\Nathan's Quick Access Files\PersonaCompendium\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.Resources.resources
+C:\Users\cherry\Desktop\Nathan's Quick Access Files\PersonaCompendium\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.NetworkFusion.resources
+C:\Users\cherry\Desktop\Nathan's Quick Access Files\PersonaCompendium\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.SearchbyArcana.resources
+C:\Users\cherry\Desktop\Nathan's Quick Access Files\PersonaCompendium\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.ViewAllPersonas.resources
+C:\Users\cherry\Desktop\Nathan's Quick Access Files\PersonaCompendium\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.vbproj.GenerateResource.Cache
+C:\Users\cherry\Desktop\Nathan's Quick Access Files\PersonaCompendium\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.xml
+C:\Users\cherry\Desktop\Nathan's Quick Access Files\PersonaCompendium\PersonaCompendiumV2\PersonaCompendium\bin\Debug\PersonaCompendium.exe
+C:\Users\cherry\Desktop\Nathan's Quick Access Files\PersonaCompendium\PersonaCompendiumV2\PersonaCompendium\bin\Debug\PersonaCompendium.pdb
+C:\Users\cherry\Desktop\Nathan's Quick Access Files\PersonaCompendium\PersonaCompendiumV2\PersonaCompendium\bin\Debug\PersonaCompendium.xml
+C:\Users\cherry\Desktop\Nathan's Quick Access Files\PersonaCompendium\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.exe
+C:\Users\cherry\Desktop\Nathan's Quick Access Files\PersonaCompendium\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.pdb
+F:\Programming and Development\Velvet Room\PersonaCompendiumV2\PersonaCompendium\bin\Debug\PersonaCompendium.exe.config
+F:\Programming and Development\Velvet Room\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.exe
+F:\Programming and Development\Velvet Room\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.xml
+F:\Programming and Development\Velvet Room\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.pdb
+F:\Programming and Development\Velvet Room\PersonaCompendiumV2\PersonaCompendium\bin\Debug\PersonaCompendium.exe
+F:\Programming and Development\Velvet Room\PersonaCompendiumV2\PersonaCompendium\bin\Debug\PersonaCompendium.pdb
+F:\Programming and Development\Velvet Room\PersonaCompendiumV2\PersonaCompendium\bin\Debug\PersonaCompendium.xml
+F:\Programming and Development\Velvet Room\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.vbprojResolveAssemblyReference.cache
+F:\Programming and Development\Velvet Room\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.About.resources
+F:\Programming and Development\Velvet Room\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.AdvancedFusion.resources
+F:\Programming and Development\Velvet Room\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.BasicFusion.resources
+F:\Programming and Development\Velvet Room\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.Help.resources
+F:\Programming and Development\Velvet Room\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.ItemizePersona.resources
+F:\Programming and Development\Velvet Room\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.MainMenu.resources
+F:\Programming and Development\Velvet Room\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.Resources.resources
+F:\Programming and Development\Velvet Room\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.NetworkFusion.resources
+F:\Programming and Development\Velvet Room\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.RegisterPersonas.resources
+F:\Programming and Development\Velvet Room\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.SearchbyArcana.resources
+F:\Programming and Development\Velvet Room\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.StrengthenPersona.resources
+F:\Programming and Development\Velvet Room\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.ViewAllPersonas.resources
+F:\Programming and Development\Velvet Room\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.vbproj.GenerateResource.Cache
+F:\Programming\Velvet Room\PersonaCompendiumV2\PersonaCompendium\bin\Debug\PersonaCompendium.exe.config
+F:\Programming\Velvet Room\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.exe
+F:\Programming\Velvet Room\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.xml
+F:\Programming\Velvet Room\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.pdb
+F:\Programming\Velvet Room\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.About.resources
+F:\Programming\Velvet Room\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.AdvancedFusion.resources
+F:\Programming\Velvet Room\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.BasicFusion.resources
+F:\Programming\Velvet Room\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.Help.resources
+F:\Programming\Velvet Room\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.ItemizePersona.resources
+F:\Programming\Velvet Room\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.MainMenu.resources
+F:\Programming\Velvet Room\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.Resources.resources
+F:\Programming\Velvet Room\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.NetworkFusion.resources
+F:\Programming\Velvet Room\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.RegisterPersonas.resources
+F:\Programming\Velvet Room\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.SearchbyArcana.resources
+F:\Programming\Velvet Room\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.StrengthenPersona.resources
+F:\Programming\Velvet Room\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.ViewAllPersonas.resources
+F:\Programming\Velvet Room\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.vbproj.GenerateResource.Cache
+F:\Programming\Velvet Room\PersonaCompendiumV2\PersonaCompendium\bin\Debug\PersonaCompendium.exe
+F:\Programming\Velvet Room\PersonaCompendiumV2\PersonaCompendium\bin\Debug\PersonaCompendium.pdb
+F:\Programming\Velvet Room\PersonaCompendiumV2\PersonaCompendium\bin\Debug\PersonaCompendium.xml
+F:\Programming\Velvet Room\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.vbprojAssemblyReference.cache
+F:\Programming\Velvet Room\PersonaCompendiumV2\PersonaCompendium\obj\Debug\PersonaCompendium.vbproj.CoreCompileInputs.cache

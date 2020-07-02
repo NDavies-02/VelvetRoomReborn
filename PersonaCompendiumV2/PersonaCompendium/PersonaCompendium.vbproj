@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B274C372-F8B5-419A-9F42-01BB5E2E373E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>PersonaCompendium.My.MyApplication</StartupObject>
+    <RootNamespace>PersonaCompendium</RootNamespace>
+    <AssemblyName>PersonaCompendium</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>PersonaCompendium.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>PersonaCompendium.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Forms\About.Designer.vb">
+      <DependentUpon>About.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\About.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AdvancedFusion.Designer.vb">
+      <DependentUpon>AdvancedFusion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AdvancedFusion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\BasicFusion.Designer.vb">
+      <DependentUpon>BasicFusion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\BasicFusion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Help.Designer.vb">
+      <DependentUpon>Help.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Help.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ItemizePersona.Designer.vb">
+      <DependentUpon>ItemizePersona.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ItemizePersona.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainMenu.Designer.vb">
+      <DependentUpon>MainMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MainMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\Main Module.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Forms\NetworkFusion.Designer.vb">
+      <DependentUpon>NetworkFusion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\NetworkFusion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\RegisterPersonas.Designer.vb">
+      <DependentUpon>RegisterPersonas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\RegisterPersonas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\ResetInitialPersonas.vb" />
+    <Compile Include="Forms\SearchbyArcana.Designer.vb">
+      <DependentUpon>SearchbyArcana.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SearchbyArcana.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\StrengthenPersona.Designer.vb">
+      <DependentUpon>StrengthenPersona.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\StrengthenPersona.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ViewAllPersonas.Designer.vb">
+      <DependentUpon>ViewAllPersonas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ViewAllPersonas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Forms\About.resx">
+      <DependentUpon>About.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AdvancedFusion.resx">
+      <DependentUpon>AdvancedFusion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\BasicFusion.resx">
+      <DependentUpon>BasicFusion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Help.resx">
+      <DependentUpon>Help.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ItemizePersona.resx">
+      <DependentUpon>ItemizePersona.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMenu.resx">
+      <DependentUpon>MainMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\NetworkFusion.resx">
+      <DependentUpon>NetworkFusion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\RegisterPersonas.resx">
+      <DependentUpon>RegisterPersonas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SearchbyArcana.resx">
+      <DependentUpon>SearchbyArcana.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\StrengthenPersona.resx">
+      <DependentUpon>StrengthenPersona.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ViewAllPersonas.resx">
+      <DependentUpon>ViewAllPersonas.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Persona-5-Velvet-Room-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VRTheme.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PersonasNoArcana.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PS4Wallpapers.com_Persona-5-4K-3840x2160.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,101 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PersonaCompendium
+</name>
+</assembly>
+<members>
+<member name="T:PersonaCompendium.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:PersonaCompendium.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:PersonaCompendium.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:PersonaCompendium.My.Resources.Resources.Persona_5_Velvet_Room_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PersonaCompendium.My.Resources.Resources.PersonasNoArcana">
+<summary>
+  Looks up a localized string similar to Arsene
+Obariyon
+High Pixie
+Decarabia
+Legion
+Ose
+Bugs
+Dionysus
+Black Frost
+Vishnu
+Crystal Skull
+Satanael
+Jackolantern
+Jack Frost
+Nekomata
+Sandman
+Choronzon
+Queen Mab
+Rangda
+Surt
+Futsunushi
+Silky
+Apsaras
+Isis
+Kikuri Hime
+Scathach
+Sarasvati
+Skadi
+Cybele
+Empress
+Queens Necklace
+Yaksini
+Lamia
+Hariti
+Dakini
+Titania
+Kali
+Mother Harlot
+Emperor
+Eligor
+Setanta
+Thoth
+Okuninushi
+Barong
+King Frost
+Oberon
+Baal
+Odin
+Berith
+Orobas
+Phoenix
+Anzu
+Unicorn
+Daisoujou
+Forneus
+ [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:PersonaCompendium.My.Resources.Resources.PS4Wallpapers_com_Persona_5_4K_3840x2160">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PersonaCompendium.My.Resources.Resources.VRTheme">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+</members>
+</doc>
