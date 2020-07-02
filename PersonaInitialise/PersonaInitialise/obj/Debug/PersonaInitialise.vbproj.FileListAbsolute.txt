@@ -1,0 +1,14 @@
+C:\Users\22037751\AppData\Local\Temporary Projects\PersonaInitialise\bin\Debug\PersonaInitialise.exe.config
+F:\Programming and Development\Velvet Room Resources\PersonaInitialise\PersonaInitialise\bin\Debug\PersonaInitialise.exe.config
+I:\Programming and Development\Velvet Room\PersonaInitialise\PersonaInitialise\bin\Debug\PersonaInitialise.exe.config
+I:\Programming and Development\Velvet Room\PersonaInitialise\PersonaInitialise\bin\Debug\PersonaInitialise.exe
+I:\Programming and Development\Velvet Room\PersonaInitialise\PersonaInitialise\bin\Debug\PersonaInitialise.pdb
+I:\Programming and Development\Velvet Room\PersonaInitialise\PersonaInitialise\bin\Debug\PersonaInitialise.xml
+I:\Programming and Development\Velvet Room\PersonaInitialise\PersonaInitialise\obj\Debug\PersonaInitialise.vbprojResolveAssemblyReference.cache
+I:\Programming and Development\Velvet Room\PersonaInitialise\PersonaInitialise\obj\Debug\PersonaInitialise.Resources.resources
+I:\Programming and Development\Velvet Room\PersonaInitialise\PersonaInitialise\obj\Debug\PersonaInitialise.vbproj.GenerateResource.Cache
+I:\Programming and Development\Velvet Room\PersonaInitialise\PersonaInitialise\obj\Debug\PersonaInitialise.exe
+I:\Programming and Development\Velvet Room\PersonaInitialise\PersonaInitialise\obj\Debug\PersonaInitialise.xml
+I:\Programming and Development\Velvet Room\PersonaInitialise\PersonaInitialise\obj\Debug\PersonaInitialise.pdb
+I:\Programming and Development\Velvet Room\PersonaInitialise\PersonaInitialise\obj\Debug\PersonaInitialise.Intialise.resources
+I:\Programming and Development\Velvet Room\PersonaInitialise\PersonaInitialise\obj\Debug\PersonaInitialise.ViewAll.resources
